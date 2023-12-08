@@ -1,0 +1,8 @@
+chess         == 1.10.*  # so that we can display beautiful chess boards
+
+pyspark[sql]  == 3.5.*   # Spark sql session
+pandas        == 2.1.*   # dataframes
+
+matplotlib    == 3.8.*   # plotting
+seaborn       == 0.13.*  # confusion matrix
+scikit-learn  == 1.3.*   # random forest
